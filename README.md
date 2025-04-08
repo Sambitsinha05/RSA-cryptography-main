@@ -4,7 +4,7 @@
 **RSA Shield** is a web-based cryptographic tool that implements RSA encryption and decryption. It allows users to securely encrypt and decrypt messages using the RSA algorithm, a widely used asymmetric cryptographic method.
 
 ## 🌐 Live Demo
-[Visit RSA Shield](https://itz-nirmal.github.io/rsa--shield/)
+[Visit RSA Shield](https://github.com/Sambitsinha05/RSA-cryptography-main.git)
 
 ## 🚀 Features
 - **RSA Key Generation**: Generate public and private keys for encryption and decryption.
@@ -25,7 +25,7 @@
 - RSA Cryptographic Algorithm
 
 ## 📌 Usage Instructions
-1. Open the website: [RSA Shield](https://itz-nirmal.github.io/rsa--shield/)
+1. Open the website: [RSA Shield](https://github.com/Sambitsinha05/RSA-cryptography-main.git)
 2. Create an account.
 3. Generate a new key pair.
 4. Enter a message and encrypt it.
@@ -36,12 +36,13 @@ All copyright rights reserved to the Team Members.
 
 ## 👨‍💻 Developers
 This project is developed by:
+- [sambit](https://github.com/Sambitsinha05) 
 - [itz-nirmal](https://github.com/itz-nirmal/) 
 - [vibhor](https://github.com/Vibhor-s24) 
-- [sambit](https://github.com/Sambitsinha05) 
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## 📧 Contact
-For any queries or support, contact the developer at [itz.nirmal.haldar@gmail.com] or open an issue in the repository.
+For any queries or support, contact the developer at [sinhasambit3@gmail.com] or open an issue in the repository.
